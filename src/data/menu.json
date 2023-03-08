@@ -1,0 +1,14 @@
+[
+    {
+        "title": "accueil",
+        "path": "/"
+    },
+    {
+        "title": "projets",
+        "path": "/project"
+    },
+    {
+        "title": "contact",
+        "path": "/contact"
+    }
+]

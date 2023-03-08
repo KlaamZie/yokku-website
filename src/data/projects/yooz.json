@@ -1,0 +1,14 @@
+{
+  "id": "yooz",
+  "title": "Yooz",
+  "client": "Yooz",
+  "sector": "Comptabilité",
+  "year": "Octobre 2022 - Février 2023",
+  "featured_image": "./images/yooz/featured.png",
+  "cover_image":"./images/yooz/featured.png",
+  "is_featured": false,
+  "body": [
+        "Yooz est une startup qui propose une solution de comptabilité en ligne pour les TPE et PME. Leur objectif est de simplifier la gestion comptable des entreprises et de leur permettre de se concentrer sur leur cœur de métier.",
+        "En Octobre 2022 nous avons intégré leur équipe maintenance et évol afin de les assister dans la maintenance de leur application et l'évolution de leurs fonctionnalités."
+  ]
+}

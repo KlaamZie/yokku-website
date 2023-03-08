@@ -1,0 +1,34 @@
+{
+  "id": "aktif-transac",
+  "title": "aktif-transac.com",
+  "client": "Aktif Transac",
+  "sector": "Immobilier",
+  "year": "Décembre 2020",
+  "featured_image": "./images/aktif-transac/featured.png",
+  "cover_image":"./images/aktif-transac/featured.png",
+  "is_featured": true,
+  "body": [
+        "L'agence immobilière Aktif Transac, à Montpellier, a fait appel a nous par le biais du collectif Dernière Cohorte afin de refondre totalement leur site internet.",
+        "Après avoir reçu la nouvelle charte graphique et les maquettes du nouveau site, nous nous sommes occupé de transformer celles-ci en site web responsive et accessible qui permet de mettre en avant les biens immobiliers de l'agence.",
+        "Ce projet a été réalisé avec NuxtJs (VueJs). En plus de l'intégration des maquettes nous avons créé une connexion à l'outil de gestion de biens de l'agence immobilière afin de récupérer les biens immobiliers et les afficher sur le site.",
+        "Enfin, une des problématiques de l'agence était de pouvoir attirer des clients étrangers. Nous avons donc mis en place un système de traduction automatique pour le contenu du site et les biens immobiliers en anglais."
+  ],
+  "features": [
+    {
+      "id": "site-feature-1",
+      "title": "Design Moderne",
+      "image": "./images/aktif-transac/design.png",
+      "text": [
+        "En collaborant avec un de nos designer partenaire, nous avons pu créer une charte graphique moderne et épurée pour l'agence immobilière Aktif Transac."
+      ]
+    },
+    {
+      "id": "portfolio-feature-2",
+      "title": "Traduction.",
+      "image": "./images/aktif-transac/traduction.png",
+      "text": [
+        "Nous avons mis en place un système de traduction automatique pour le contenu du site et les biens immobiliers en anglais."
+      ]
+    }
+  ]
+}

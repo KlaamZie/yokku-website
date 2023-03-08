@@ -1,0 +1,53 @@
+[
+    {
+        "section": "hero_section_content",
+        "title": "Ensemble créons le monde de demain, menons à bien vos projets digitaux et innovants.",
+        "date": "Donnez vie à vos projets",
+        "bg_image": "./images/home-bg.jpg",
+        "btn_link": "/project",
+        "clients": [
+            {
+                "id": "client_1",
+                "link": "https://kinosa.fr/",
+                "image": "./images/kinosa.png"
+            },
+            {
+                "id": "client_2",
+                "link": "https://synergies-elementaires.fr/",
+                "image": "./images/synergies.png"
+            }
+        ]
+    }, 
+    {
+        "section": "story_section_contnet",
+        "title": "Nous nous efforçons de fournir les derniers outils et technologies adaptées à chaque client avec lequel nous travaillons.",
+        "subtitle": "Notre vision",
+        "image": "./images/about.jpg",
+        "path": "/company",
+        "content": [
+            "Depuis la création de Yokku en 2020, nous avons travaillé avec des clients de tous les secteurs et de toutes les tailles. Nous avons développé une expertise dans la conception et la création de projets digitaux sur mesure.",
+            "Pour nous la satisfaction client est une priorité absolue. Nous savons que la reussite d'un projet depend avant tout de la personne qui le porte, c'est pour cela que nous plaçons toujours l'humain au premier plan",
+            "Nous pouvons intervenir sur tous les aspects de votre projet, de la conception à la réalisation, en passant par la stratégie digitale, le référencement et le marketing. Nous sommes là pour vous accompagner dans la réalisation de vos projets.",
+            "Nous sommes fiers de nos réalisations et nous sommes impatients de vous aider à atteindre vos objectifs."
+        ]
+    },
+    {
+        "section": "project_section_content",
+        "title": "Nos derniers projets",
+        "subtitle": "Crème de la crème"
+    },
+    {
+        "section": "clients_section_content",
+        "title": "Ils sont au cœur de tout ce que nous faisons et nous sommes fiers de les accompagner dans leur croissance et leur réussite.",
+        "subtitle": "NOS CLIENTS"
+    },
+    {
+        "section": "banner_section_content",
+        "banner_image": "./images/video.jpg"
+    },
+    {
+        "section": "recent_post_section_content",
+        "title": "Nos derniers posts",
+        "subtitle": "PAROLES D'EXPERTS"
+    }
+]

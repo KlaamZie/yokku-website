@@ -1,0 +1,32 @@
+[
+    {
+        "id": "client_1",
+        "link": "https://kinosa.fr/",
+        "image": "./images/kinosa.png"
+    },
+    {
+        "id": "client_2",
+        "link": "https://www.digitregroup.com/",
+        "image": "./images/digitre.webp"
+    },
+    {
+        "id": "client_3",
+        "link": "https://www.getyooz.com/fr/",
+        "image": "./images/yooz.svg"
+    },
+    {
+        "id": "client_4",
+        "link": "https://comho.me/",
+        "image": "./images/comhome.png"
+    },
+    {
+        "id": "client_5",
+        "link": "https://aktif-transac.com/",
+        "image": "./images/aktif.svg"
+    },
+    {
+        "id": "client_7",
+        "link": "https://synergies-elementaires.fr/",
+        "image": "./images/synergies.png"
+    }
+]

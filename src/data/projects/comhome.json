@@ -1,0 +1,17 @@
+{
+  "id": "comhome",
+  "title": "Com'Home",
+  "client": "Com'Home",
+  "sector": "Restauration",
+  "year": "Avril 2021 - Octobre 2021",
+  "featured_image": "./images/comhome/featured.png",
+  "cover_image":"./images/comhome/featured.png",
+  "is_featured": true,
+  "body": [
+    "Com'Home a fait appel a nous par le biais du collectif Dernière Cohorte afin de créer leur application mobile de réservation de chef a domicile.",
+    "Après avoir reçu la charte graphique et les maquettes de l'application, nous nous sommes occupé de transformer celles-ci en application mobile multiplateforme fonctionnelle et accessible qui permet de mettre en avant la vision et les ambitions de Com'Home.",
+    "Ce projet a été réalisé avec ReactNative (ReactJs). En plus de l'application, nous avons aussi mis en place une base de donnée PostgreSQL et créé une API GraphQL sécurisée avec NestJs afin que l'application puisse communiquer avec la base de donnée.",
+    "Enfin nous avons mis en place une base de donnée secondaire avec ElasticSearch, synchronisée avec la base PostgreSQL, afin de permettre aux utilisateurs de rechercher des chefs par nom, prénom, spécialité, etc... Cette base étant plus légère que la base PostgreSQL, elle permet de réduire le temps de réponse de l'application et d'augmenter la vitesse de recherche.",
+    "Pour finir nous avons connecter l'application a un systeme de geolocalisation afin de permettre aux utilisateurs de rechercher des chefs a proximité de leur position actuelle."
+  ]
+}

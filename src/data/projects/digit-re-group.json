@@ -1,0 +1,14 @@
+{
+  "id": "digitre-group",
+  "title": "DigitRe Group",
+  "client": "DigitRe Group",
+  "sector": "Immobilier",
+  "year": "Octobre 2021 - Octobre 2022",
+  "featured_image": "./images/digit-re-group/featured.png",
+  "cover_image":"./images/digit-re-group/featured.png",
+  "is_featured": false,
+  "body": [
+        "DigitRe Group est une société qui a pour objectif de développer des projets immobiliers de qualité, en France et à l’étranger. Elle a pour ambition de devenir un acteur majeur de l’immobilier en France et à l’international.",
+        "En Octobre 2021, nous avons intégrer leurs équipes afin de les former au développement de site web avec NextJs (ReactJs) et DatoCMS mais aussi de les accompagner dans la migration de leurs site internet qui avaient été développer avec Grav (PHP)."
+  ]
+}

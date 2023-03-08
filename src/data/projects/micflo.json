@@ -1,0 +1,33 @@
+{
+  "id": "micflo",
+  "title": "micflo.fr",
+  "client": "Micflo",
+  "sector": "Conseil",
+  "year": "Mars 2021",
+  "featured_image": "./images/micflo/featured.png",
+  "cover_image":"./images/micflo/featured.png",
+  "is_featured": false,
+  "body": [
+    "Micflo a fait appel a nous par le biais du collectif Dernière Cohorte afin de créer leur site internet.",
+    "Après avoir reçu la charte graphique et les maquettes du nouveau site, nous nous sommes occupé de transformer celles-ci en site web responsive et accessible qui permet de mettre en avant la vision et les prestation du cabinet.",
+    "Ce projet a été réalisé avec NextJs (ReactJs). En plus de l'intégration des maquettes nous avons implémenter un système de gestion de contenu (CMS) avec DatoCMS afin de permettre au client de modifier le contenu du site sans avoir besoin de nous contacter."
+  ],
+  "features": [
+    {
+      "id": "site-feature-1",
+      "title": "Design Moderne",
+      "image": "./images/micflo/design.png",
+      "text": [
+        "En collaborant avec un de nos designer partenaire, nous avons pu créer une charte graphique moderne et épurée pour le cabinet Micflo."
+      ]
+    },
+    {
+      "id": "site-feature-2",
+      "title": "Gestion du Contenu",
+      "image": "./images/micflo/dato.png",
+      "text": [
+        "Grâce à la puissance de DatoCMS, le client peut modifier le contenu du site sans avoir besoin de nous contacter."
+      ]
+    }
+  ]
+}

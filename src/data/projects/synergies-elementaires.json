@@ -1,0 +1,25 @@
+{
+  "id": "synergies-elementaires",
+  "title": "synergies-elementaires.fr",
+  "client": "Synergies Elémentaires",
+  "sector": "Coaching",
+  "year": "Février 2021",
+  "featured_image": "./images/synergies-elementaires/featured.png",
+  "cover_image":"./images/synergies-elementaires/featured.png",
+  "is_featured": false,
+  "body": [
+    "Synergies Elémentaires a fait appel a nous par le biais du collectif Dernière Cohorte afin de créer leur site internet.",
+    "Après avoir reçu la charte graphique et les maquettes du nouveau site, nous nous sommes occupé de transformer celles-ci en site web responsive et accessible qui permet de mettre en avant la vision et les prestation de l'association.",
+    "Ce projet a été réalisé avec NextJs (ReactJs). En plus de l'intégration des maquettes nous avons implémenter un système de gestion de contenu (CMS) avec DatoCMS afin de permettre au client de modifier le contenu du site sans avoir besoin de nous contacter."
+  ],
+  "features": [
+    {
+      "id": "site-feature-1",
+      "title": "Gestion du Contenu",
+      "image": "./images/synergies-elementaires/dato.png",
+      "text": [
+        "Grâce à la puissance de DatoCMS, le client peut modifier le contenu du site sans avoir besoin de nous contacter."
+      ]
+    }
+  ]
+}

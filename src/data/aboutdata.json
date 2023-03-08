@@ -1,0 +1,19 @@
+[
+    {
+        "section": "about-intro-content",
+        "title": "à propos",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "content": ["Hello", "World"]
+    },
+    {
+        "section": "about-team-section-content",
+        "title": "Our Awesome Teams",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "section": "about-join-team-content",
+        "title": "We're Hiring. Join Our Team.",
+        "desc": "There are many variations ges of Lorem Ipsum available, but the majority have suffered. alteration in some form, by injected humour",
+        "path": "/"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "kinosa",
+  "title": "kinosa.fr",
+  "client": "Kinosa",
+  "sector": "Restauration",
+  "year": "Septembre 2020 - Aujourd'hui",
+  "featured_image": "./images/kinosa/featured.png",
+  "cover_image":"./images/kinosa/featured.png",
+  "is_featured": true,
+  "body": [
+        "Le healthy bar Kinosa, à Montpellier, a fait appel a nous par le biais du collectif Dernière Cohorte afin de créer leur site internet.",
+        "Après avoir reçu la nouvelle charte graphique et les maquettes du nouveau site, nous nous sommes occupé de transformer celles-ci en site web responsive et accessible qui permet de mettre en avant la vision et les produits délicieux du bar.",
+        "Ce projet a été réalisé avec NextJs (ReactJs). En plus de l'intégration des maquettes nous avons implémenter un système de gestion de contenu (CMS) avec DatoCMS afin de permettre au client de modifier le contenu du site sans avoir besoin de nous contacter.",
+        "Enfin, nous avons intégré au site un chat messenger afin que les clients puissent contacter le bar directement depuis le site."
+  ],
+  "features": [
+    {
+      "id": "site-feature-1",
+      "title": "Design Moderne",
+      "image": "./images/kinosa/design.png",
+      "text": [
+        "En collaborant avec un de nos designer partenaire, nous avons pu créer une charte graphique moderne et épurée pour le bar Kinosa."
+      ]
+    },
+    {
+      "id": "site-feature-2",
+      "title": "Gestion du Contenu",
+      "image": "./images/kinosa/dato.png",
+      "text": [
+        "Grâce à la puissance de DatoCMS, le client peut modifier le contenu du site sans avoir besoin de nous contacter."
+      ]
+    },
+    {
+      "id": "site-feature-3",
+      "title": "Chat Messenger",
+      "image": "./images/kinosa/chat.png",
+      "text": [
+        "Nous avons intégrer un chat messenger afin que les clients puissent contacter le bar directement depuis le site."
+      ]
+    }
+  ]
+}

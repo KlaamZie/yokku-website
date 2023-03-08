@@ -1,0 +1,26 @@
+[
+    {
+        "section": "company_page_data",
+        "banner_img": "./images/bg-image-2.jpg"
+    },
+    {
+        "section": "project_page_data",
+        "banner_img": "./images/projects.png"
+    },
+    {
+        "section": "contact_page_data",
+        "banner_img": "./images/contact.jpg",
+        "title": "Nous contacter",
+        "subtitle": "Ne perdez plus de temps, contactez-nous dès maintenant !"
+    },
+    {
+        "section": "blog_page_data",
+        "banner_img": "./images/bg-image-4.jpg",
+        "title": "Nos articles",
+        "subtitle": "PAROLES D'EXPERTS"
+    },
+    {
+        "section": "single_project_page_data",
+        "banner_img": "./images/projects.png"
+    }
+]

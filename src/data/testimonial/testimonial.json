@@ -1,0 +1,20 @@
+[
+    {
+        "id": "testimonial_1",
+        "author_name": "Chloé Pichetto",
+        "author_role": "CEO",
+        "author_image": "./images/chloe.png",
+        "company": "Kinosa",
+        "country": "France",
+        "review": "Leurs travail en toute transparence, d’une rapidité et précision sans faille font que je recommande totalement cette agence."
+    },
+    {
+        "id": "testimonial_2",
+        "author_name": "Sandrine Dias",
+        "author_role": "CEO",
+        "author_image": "./images/aktif.png",
+        "company": "Aktif Transac",
+        "country": "France",
+        "review": "Connaissent leurs travail, de bonnes idées, je conseille"
+    }
+]
