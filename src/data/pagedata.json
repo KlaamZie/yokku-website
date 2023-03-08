@@ -14,6 +14,10 @@
         "subtitle": "Ne perdez plus de temps, contactez-nous dès maintenant !"
     },
     {
+        "section": "legals_page_data",
+        "banner_img": "./images/projects.png"
+    },
+    {
         "section": "blog_page_data",
         "banner_img": "./images/bg-image-4.jpg",
         "title": "Nos articles",

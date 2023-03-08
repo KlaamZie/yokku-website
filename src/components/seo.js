@@ -23,6 +23,7 @@ const SEO = ({ title, description, image, pathname }) => (
         image: `${siteUrl}${image || defaultImage}`,
         url: `${siteUrl}${pathname || "/"}`,
       }
+      let dataLayer = [];
       return (
         <>
           <Helmet title={seo.title} titleTemplate={`${titleTemplate}`}>
